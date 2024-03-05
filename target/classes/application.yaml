@@ -1,0 +1,46 @@
+server:
+  port: 8080
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  datasource:
+    url: jdbc:postgresql://localhost:5432/springbootjpa
+    username: postgres
+    password: pedro2000
+    driver-class-name: org.postgresql.Driver
+  output:
+    ansi:
+      enabled: Always
+  rabbitmq:
+    name: "mensageria-teste"
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    template:
+      exchange:
+        name: my_exchange
+        type: direct
+      routing-key: my_routing_key
+    listener:
+      simple:
+        queue-name: my_queue
+        auto-startup: true
+atlante:
+  security:
+    public-endpoints:
+      - /public
+      - /swagger-ui.html
+      - /swagger-ui/**
+      - /v3/api-docs
+      - /v3/api-docs/**
+      -
+
+logging:
+  level:
+    com.ead: TRACE
+    root: INFO
+    org.springframework.web: DEBUG
+    org.hibernate: INFO
+---

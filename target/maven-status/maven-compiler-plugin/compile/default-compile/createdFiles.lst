@@ -1,0 +1,16 @@
+com\orch\stock\camel\router\CadastroRouter.class
+com\orch\stock\service\CadastroService.class
+com\orch\stock\infrastructure\rabbitProducer\Producer.class
+com\orch\stock\CadastroApplication.class
+com\orch\stock\domain\Cadastro.class
+com\orch\stock\mapper\CadastroMapperImpl.class
+br\com\orch\stock\api\V1ApiController.class
+com\orch\stock\infrastructure\repository\CadastroRepository.class
+com\orch\stock\camel\processor\CadastroProcessor.class
+com\orch\stock\config\CadastroNewConfiguration.class
+br\com\orch\stock\api\V1Api.class
+br\com\orch\stock\presentation\representation\EnviarCadastro.class
+com\orch\stock\config\OpenApiNewConfiguration.class
+com\orch\stock\infrastructure\rabbitConsumer\Consumer.class
+com\orch\stock\mapper\CadastroMapper.class
+com\orch\stock\presentation\CadastroController.class

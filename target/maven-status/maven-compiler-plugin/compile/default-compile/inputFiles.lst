@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\infrastructure\rabbitConsumer\Consumer.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\infrastructure\rabbitProducer\Producer.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\camel\router\CadastroRouter.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\service\CadastroService.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\config\CadastroNewConfiguration.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\mapper\CadastroMapper.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\target\generated-sources\swagger\src\main\java\br\com\orch\stock\api\V1ApiController.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\target\generated-sources\swagger\src\main\java\br\com\orch\stock\presentation\representation\EnviarCadastro.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\config\OpenApiNewConfiguration.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\domain\Cadastro.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\presentation\CadastroController.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\CadastroApplication.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\infrastructure\repository\CadastroRepository.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\target\generated-sources\swagger\src\main\java\br\com\orch\stock\api\V1Api.java
+C:\Users\Pichau\Desktop\Nova pasta\Orquestrador-RabbitMq-Producer\src\main\java\com\orch\stock\camel\processor\CadastroProcessor.java
